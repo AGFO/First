@@ -8,6 +8,7 @@ public class Test {
 		
 	Fen uneFen = new Fen();
 	Fen deuxfen = new Fen();
+	Fen troisfen = new Fen();
 	
 }
 
