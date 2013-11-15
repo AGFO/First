@@ -7,6 +7,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 	Fen uneFen = new Fen();
+	Fen deuxfen = new Fen();
 	
 }
 
